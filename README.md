@@ -3,7 +3,7 @@ I have successfully created a new React Application using Typescript and Vite in
 I have deployed the completed application. You can access the deployed application using the following URL : https://6572fd80bb45757bda524cba--unrivaled-buttercream-3248c2.netlify.app/
 
 Here are the URLs for my submission:
-   - Github URL : 
+   - Github URL : https://github.com/SonuKumar10234/GrowMeOrganic_Task
    - Deployed Application URL : https://6572fd80bb45757bda524cba--unrivaled-buttercream-3248c2.netlify.app/
 
 
